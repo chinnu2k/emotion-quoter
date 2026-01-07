@@ -1,0 +1,63 @@
+
+
+body {
+  background: #f4f6fa;
+}
+
+/* main card */
+.card {
+  max-width: 650px;
+  margin: auto;
+  border-radius: 12px;
+}
+
+/* quote output */
+#result li {
+  border-radius: 8px;
+  margin-bottom: 8px;
+  padding: 12px 14px;
+  font-size: 0.95rem;
+  line-height: 1.4;
+  background: #f8f9ff;
+  border-left: 4px solid #4f6ef7;
+  font-style: italic;
+}
+
+/* history list */
+#history li {
+  padding: 8px 10px;
+  font-size: 0.9rem;
+  border-radius: 6px;
+  margin-bottom: 6px;
+  color: #555;
+}
+
+/* daily stats */
+#stats li {
+  padding: 6px 10px;
+  font-size: 0.9rem;
+  border-radius: 6px;
+  margin-bottom: 4px;
+}
+
+/* emotion buttons */
+.btn-outline-primary,
+.btn-outline-secondary,
+.btn-outline-danger,
+.btn-outline-warning {
+  padding: 6px 12px;
+  font-size: 0.9rem;
+}
+
+/* remove bullet look from bootstrap list groups */
+.list-group-item {
+  border: 1px solid #e2e5ea;
+}
+
+/* history panel spacing */
+#historyPanel {
+  margin-top: 12px;
+  background: #fafafa;
+  padding: 12px;
+  border-radius: 8px;
+}

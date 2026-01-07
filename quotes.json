@@ -1,0 +1,24 @@
+{
+  "happy": [
+    "Happiness is not something ready made. It comes from your own actions.",
+    "Smile — it increases your face value.",
+    "Joy is not in things; it is in us."
+  ],
+  "sad": [
+    "Every storm runs out of rain.",
+    "Tears come from the heart, not the brain.",
+    "Sadness flies away on the wings of time."
+  ],
+  "angry": [
+    "For every minute you are angry you lose sixty seconds of happiness.",
+    "Anger is one letter short of danger."
+  ],
+  "tired": [
+    "Rest when you’re weary. Refresh and renew yourself.",
+    "Even the strongest need rest."
+  ],
+  "motivated": [
+    "Dream big and dare to fail.",
+    "Don’t watch the clock; do what it does. Keep going."
+  ]
+}
